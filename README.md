@@ -4,13 +4,13 @@
 
 🔧 Features: Home, Services, About, Trainers, and Contact sections
 
-Fully responsive design for mobile, tablet, and desktop
+-Fully responsive design for mobile, tablet, and desktop
 
-Smooth scrolling and effects using JavaScript
+-Smooth scrolling and effects using JavaScript
 
-Contact form with PHP and MySQL database integration
+-Contact form with PHP and MySQL database integration
 
-SEO-friendly clean code structure
+-SEO-friendly clean code structure
 
 🛠️ Tech Stack: Frontend: HTML5, CSS3, JavaScript
 
